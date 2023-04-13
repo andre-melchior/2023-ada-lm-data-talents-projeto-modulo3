@@ -2,31 +2,23 @@
 
 Duração do curso: jan-2023 a jun-2023
 
-#### 1. Projeto Calculadora 
 
-Tema do exercício: 
-> Git e GitHub
+#### Projeto Fim de Módulo
 
-Módulo: 
-> Técnicas de Programação I, DS-PY-004
+Colaboradores:
+> Andre M, João Pedro B.
 
-Temas do Módulo: 
-> Git/GitHub, Numpy, Pandas
+Data de entrega:
+> 2023-04-14
 
-Professor: 
-> Gilberto Kaihami
-
-
-#### 2. Projeto Fim de Módulo
-
-Tema do exercício: 
+Tema do projeto: 
 > EDA investimentos: Numpy, Pandas
 
 Módulo: 
 > Técnicas de Programação I, DS-PY-004
 
 Temas do Módulo: 
-> Git/GitHub, Numpy, Pandas
+> Git/GitHub, Pandas
 
 Professor: 
 > Gilberto Kaihami
