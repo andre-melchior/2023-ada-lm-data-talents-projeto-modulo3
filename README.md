@@ -6,7 +6,7 @@ Duração do curso: jan-2023 a jun-2023
 #### Projeto Fim de Módulo
 
 Colaboradores:
-> Andre M, João Pedro B.
+> Andre Melchior
 
 Data de entrega:
 > 2023-04-14
